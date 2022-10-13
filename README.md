@@ -1,16 +1,11 @@
 ## Smart Pharmacy Management System
-<hr>
 
 ## Project Domain / Category
 Web Application
 
-<hr>
-
 ## Introduction
 The smart pharmacy system, is a system that stores data and enables functionality that organizes and maintains the medication use process within pharmacies. The system serves many purposes, including the safe and effective dispensing of pharmaceutical drugs. During the dispensing process, the system will prompt the pharmacist to verify the medication they have filled is for the correct patient, contains the right quantity and dosage, and displays accurate information on the prescription label.
 Necessary actions for a basic, functioning pharmacy management system include a user interface, data entry and retention, and security limits to protect patient health information.
-
-<hr>
 
 ## Features
 - Staff management
