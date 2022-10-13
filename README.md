@@ -1,4 +1,4 @@
-## Smart Pharmacy Management System
+# Smart Pharmacy Management System
 
 ## Project Domain / Category
 Web Application
